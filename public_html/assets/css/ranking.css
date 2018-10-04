@@ -1,0 +1,41 @@
+#rank_text{
+    position: absolute;
+    top: 5%;
+    left: 50%;
+}
+#image_back{
+    position: absolute;
+    width: 40px;
+    top: 1%;
+    left: 1%;
+}
+#text_back{
+    position: absolute;
+    top: 5%;
+    left: 11%;
+    color: black;
+}
+#users_list{
+    position: absolute;
+    display: block;
+    transform: translate(-50%, -50%);
+    top: 53%;
+    left: 50%;
+    background-color: white;
+    width: 85%;
+    height: 75%;
+    margin: 0;
+    padding: 10px;
+    overflow-y: auto;
+}
+
+#users_list td{
+    height: 30px;
+    width: 350px;
+    text-align: center;
+}
+#users_list th{
+    height: 30px;
+    width: 350px;
+    text-align: center;
+}

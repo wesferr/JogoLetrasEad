@@ -1,0 +1,76 @@
+input{
+    margin: 2px 0;
+    border: solid;
+    border-color: #d5d5d5;
+    border-width: 2px;
+    width: 200px;
+    height: 30px;
+}
+
+.entradabotao{
+
+  width: 200px;
+  height: 30px;
+  margin: 2px 0px;
+  border: solid;
+  border-width: 2px;
+  border-color: #d5d5d5;
+  background-color: #ddd;
+}
+
+#entrada_text{
+  text-align: center;
+  position: absolute;
+  top: 9%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 32px;
+}
+#entrada_form{
+
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+}
+#redes_sociais_botoes{
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 75%;
+  left: 50%;
+  width: 200px;
+  height: 45px;
+}
+#redes_sociais_botoes a{
+  width: 100%;
+}
+#entrada_erro{
+  display: block;
+  top: 23%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  font-size: 25px;
+}
+#facebook_image{
+  position: absolute;
+  width: 45px;
+  left: 0;
+}
+#google_image{
+  position: absolute;
+  width: 45px;
+  right: 0;
+}
+#moodle_image{
+  position: absolute;
+  width: 45px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+#botao_cadastro{
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 65%;  
+}

@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.screen{
+    position: absolute; 
+    width: 860px;
+    height: 560px;
+    top: 50%;
+    left: 50%;
+    background-color: #33cc33;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #060;
+
+}
+
+.title{
+    position: absolute;
+    margin: 0 0;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 20px;  
+}
+
+.text{
+    position: absolute;
+    margin: 0 0;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 20px;  
+}
+
+.inputbox{
+    position: absolute;
+    border: solid;
+    border-width: 1px;
+    width: 70%;
+    height: 30px;
+    transform: translate(-50%, -50%);
+}
+
+.combobox{
+    position: absolute;
+    border: solid;
+    border-width: 1px;
+    transform: translate(50%, -50%);
+}
+
+.botao_pergunta{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    border: solid;
+    border-width: 1px;
+    border-color: black;
+    background-color: white;
+    width: 150px;
+    height: 35px;
+    padding: 0;
+}
+
+.botao_menu{
+    position: absolute;
+    margin:0;
+    padding: 0;
+    width: 300px;
+    height: 40px;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    font-weight: bold;
+    border: solid;
+    border-width: 1px;
+    border-color: black;
+    background-color: white;
+}

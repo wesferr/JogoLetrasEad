@@ -1,0 +1,139 @@
+a{
+    color: black;
+    text-decoration: none;
+}
+
+.card{
+    position: absolute;
+    width: 250px;
+    height: 45px;
+    background-color: #3aa;
+    border-style: solid;
+    border-color: #222;
+    transform: translate(-50%,-50%);
+}
+
+.cardtext{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+}
+
+#up_botao_tema{
+    position: absolute;
+    width: 30px;
+    top: -50px;
+    left: -180px;
+}
+#dado_botao_tema{
+    position: absolute;
+    width: 30px;
+    left: -180px;
+    top: -15px;
+}
+#down_botao_tema{
+    position: absolute;
+    width: 30px;
+    top: 20px;
+    left: -180px;
+}
+
+
+#selecao{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+#img_botao_sair{
+    right: 10px;
+    top: 10px;
+    position: absolute;
+    width: 40px;
+}
+#img_botao_moeda{
+    left: 10px;
+    top: 10px;
+    position: absolute;
+    width: 40px;
+}
+#img_botao_loja{
+    left: 10px;
+    top: 80px;
+    position: absolute;
+    width: 40px;
+}
+#img_botao_conf{
+    left: 10px;
+    top: 10px;
+    width: 40px;
+    position: absolute;
+}
+#img_botao_jogar{
+    left: 53%;
+    top: 61%;
+    width: 40px;
+    position: absolute;
+}
+
+#jucabyte{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    height: 250px;
+}
+#texto_botao_moeda{
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 20px;
+    top: 18px;
+    left: 60px;
+}
+#texto_botao_loja{
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 20px;
+    top: 90px;
+    left: 60px;
+}
+#texto_botao_conf{
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 20px;
+    top: 18px;
+    left: 60px;
+}
+#texto_botao_sair{
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 20px;
+    top: 18px;
+    right: 60px;
+}
+#texto_botao_jogar{
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 20px;
+    top: 62.5%;
+    left: 43%;
+}
+
+#pontos{
+    left: 50%;
+    top: 30px;
+}

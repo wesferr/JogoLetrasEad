@@ -1,0 +1,151 @@
+#area_pergunta{
+    position: absolute;
+    top: 15%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+    height: 20%;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+#botao_resposta1{
+    position: absolute;
+    top: 35%;
+    left: 60%;
+    transform: translate(-50%,-50%);
+    width: 70%;
+    height: 30px;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+}
+#botao_resposta2{
+    position: absolute;
+    top: 45%;
+    left: 60%;
+    transform: translate(-50%,-50%);
+    width: 70%;
+    height: 30px;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+}
+#botao_resposta3{
+    position: absolute;
+    top: 55%;
+    left: 60%;
+    transform: translate(-50%,-50%);
+    width: 70%;
+    height: 30px;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+}
+#botao_resposta4{
+    position: absolute;
+    top: 65%;
+    left: 60%;
+    transform: translate(-50%,-50%);
+    width: 70%;
+    height: 30px;
+    background-color: white;
+    border-style: solid;
+    border-color: black;
+}
+
+
+
+#texto_pergunta{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-transform: uppercase;
+    width: 80%;
+}
+#texto_resposta1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-transform: uppercase;
+}
+#texto_resposta2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-transform: uppercase;
+}
+#texto_resposta3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-transform: uppercase;
+}
+#texto_resposta4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-transform: uppercase;
+}
+
+.balao{
+    background: #37688D;
+    height: 50px;
+    width: 100px;
+    position: relative;
+    margin-left: 9px;
+    color: #fff;
+    padding: 3px 5px;
+}
+
+#balao_pergunta{
+    position: absolute;
+    left: -44px;
+}
+
+#jucabyte_tela{
+    position: absolute;
+    left: 10px;
+    top: 110px;
+    height: 280px;
+}
+
+#disable_div{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    background-color: white;
+    opacity: 0.1;
+}
+#volta_pergunta_botao{
+
+    top: 85%;
+    left: 20%;
+    width: 200px;
+}
+
+
+#remove_alternativa_botao{
+    top: 85%;
+    left: 20%;
+    width: 200px;
+}
+
+#error_text{
+    top:40%;
+    left:50%;
+    width: 80%;
+}
+
+#error_botao{
+    left: 50%;
+    top: 65%;
+}

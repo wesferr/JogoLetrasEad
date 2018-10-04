@@ -1,0 +1,70 @@
+#modalFeedback{
+
+    width: 70%;
+    height: 70%;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    background-color: #0a0;
+    border: solid;
+    border-color: #040;
+    z-index: 3;
+}
+
+#modalTitulo{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-transform: uppercase;
+    width: 80%;
+    text-align: center;
+}
+#modalTexto{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 80%;
+    height: 60%;
+    overflow-y: auto;
+}
+
+#modalBotaoProxima{
+    
+    position: absolute;
+    width: 20%;
+    height: 10%;
+    bottom: 5%;
+    right: 10%;
+    background-color: #999;
+    border: solid;
+    border-color: #555;
+}
+
+#modalBotaoSair{
+    
+    position: absolute;
+    width: 20%;
+    height: 10%;
+    bottom: 5%;
+    left: 10%;
+    background-color: #999;
+    border: solid;
+    border-color: #555;
+}
+
+#modalBotaoProxima a{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#modalBotaoSair a{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

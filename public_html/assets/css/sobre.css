@@ -1,0 +1,44 @@
+#image_back{
+    position: absolute;
+    width: 40px;
+    top: 1%;
+    left: 1%;
+}
+#text_back{
+    position: absolute;
+    top: 5%;
+    left: 11%;
+    color: black;
+}
+#tx1 {
+  position: absolute;
+  top:35%;
+  left:50%;
+}
+#tx2 {
+  position: absolute;
+  top:40%;
+  left:50%;
+  width: 500px;
+}
+#tx3 {
+  position: absolute;
+  top:45%;
+  left:50%;
+  width: 450px;
+}
+#tx4 {
+  position: absolute;
+  top:50%;
+  left:50%;
+}
+#tx5 {
+  position: absolute;
+  top:55%;
+  left:50%;
+}
+#tx6 {
+  position: absolute;
+  top:60%;
+  left:50%;
+}

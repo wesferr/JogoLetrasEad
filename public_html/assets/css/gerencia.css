@@ -1,0 +1,396 @@
+#CRUD_texto{
+    top: 7.5%;
+    left: 50%;
+}
+
+#add_tema{
+    padding: 0;
+    position: absolute;
+    width: 300px;
+    height: 35px;
+    border: solid;
+    border-width: 1px;
+    top: 17%;
+    right: 30%;
+    transform: translate(50%, -50%);
+    border-radius: 10;
+}
+
+#selecao_tema{
+    position: absolute;
+    width: 300px;
+    height: 35px;
+    border: solid;
+    border-width: 1px;
+    top: 17%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+}
+
+#busca_pergunta{
+    position: absolute;
+    width: 75%;
+    height: 35px;
+    top: 27%;
+    left: 50%;
+    border: solid;
+    border-width: 1px;
+    transform: translate(-50%, -50%);
+    border-radius: 10;
+}
+
+#lista_perguntas{
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 75%;
+    height: 45%;
+    left: 50%;
+    top: 57%;
+    transform: translate(-50%, -50%);
+    background-color: gray;
+    list-style-type: none;
+    border: solid;
+    border-width: 1px;
+    background-color: white;
+    overflow: auto;
+    
+}
+
+.perg{
+
+    padding: 2px;
+    border: solid;
+    border-width: 1px;
+    border-color: #eee;
+}
+
+#button_bar{
+    position: absolute;
+    top: 87%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 35px;
+    width: 615px;
+}
+
+#caixa_pergunta{
+    top: 16%;
+    left: 50%;
+    width: 80%;
+}
+
+#selecao_tema_vea{
+    width: 300px;
+    height: 35px;
+    top: 25%;
+    right: 35%;
+}
+
+#texto_tema_vea{
+    top: 25%;
+    left: 35%;
+}
+
+#texto_respostas_vea{
+    top: 35%;
+    left: 50%;
+}
+
+.texto_resposta{
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 20px;
+    transform: translate(-50%, -50%)
+}
+#resposta_certa{
+    top: 47%;
+    left: 19%;
+}
+#resposta_errada1{
+    top: 55%;
+    left: 19%;
+}
+#resposta_errada2{
+    top: 63%;
+    left: 19%;
+}
+#resposta_errada3{
+    top: 71%;
+    left: 19%;
+}
+#caixa_resposta_certa{
+    top: 47%;
+    left: 56%;
+    width:60%;
+}
+#caixa_resposta_errada1{
+    top: 55%;
+    left: 56%;
+    width:60%;
+}
+#caixa_resposta_errada2{
+    top: 63%;
+    left: 56%;
+    width:60%;
+}
+#caixa_resposta_errada3{
+    top: 71%;
+    left: 56%;
+    width:60%;
+}
+#botao_cancelar_vea{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 87%;
+    left: 30%;
+}
+#botao_ok_vea{
+    position: absolute;
+    transform: translate(50%, -50%);
+    top: 87%;
+    right: 30%;
+}
+#image_back{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    width: 40px;
+    top: 5%;
+    left: 5%;
+}
+#text_back{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 40px;
+    top: 2.5%;
+    left: 11%;
+    color: black;
+}
+
+#botao_adicionar_pergunta{
+    top: 50%;
+    left: 10%;
+}
+#visualizar_botao{
+    top: 50%;
+    left: 37%;
+}
+#editar_botao{
+    top: 50%;
+    right: -15%;
+}
+#remover_botao{
+    top: 50%;
+    right: 12%;
+}
+#modal_categoria{
+    width: 400px;
+    height: 160px;
+    box-shadow: 0px 0px 5px 2px #454545;
+}
+#modal_categoria_texto{
+    left: 50%;
+    top: 20%;
+    width: 200px;
+}
+#modal_categoria_box{
+    left: 50%;
+    top: 45%;
+    width: 350px;
+}
+#modal_categoria_ok{
+    right: -5%;
+    top: 75%;
+    width: 140px;
+}
+#modal_categoria_cancelar{
+    left: 30%;
+    top: 75%;
+    width: 140px;
+}
+
+#botao_resposta_certa_longa{
+    width: 30px;
+    height: 30px;
+    top: 47%;
+    left: 88%;
+}
+#botao_resposta_errada1_longa{
+    width: 30px;
+    height: 30px;
+    top: 55%;
+    left: 88%;
+}
+#botao_resposta_errada2_longa{
+    width: 30px;
+    height: 30px;
+    top: 63%;
+    left: 88%;
+}
+#botao_resposta_errada3_longa{
+    width: 30px;
+    height: 30px;
+    top: 71%;
+    left: 88%;
+}
+
+#tela_resposta_certa_longa{
+    top: 50%;
+    left: 50%;
+    width: 50%;
+    height: 50%;
+    
+}
+#tela_resposta_errada1_longa{
+    top: 50%;
+    left: 50%;
+    width: 50%;
+    height: 50%;
+
+}
+#tela_resposta_errada2_longa{
+    top: 50%;
+    left: 50%;
+    width: 50%;
+    height: 50%;
+
+}
+#tela_resposta_errada3_longa{
+    top: 50%;
+    left: 50%;
+    width: 50%;
+    height: 50%;
+
+}
+#caixa_resposta_certa_longa{
+    top: 40%;
+    left: 50%;
+    width: 90%;
+    height: 70%;
+    text-align: center;
+}
+
+#caixa_resposta_errada1_longa{
+    top: 40%;
+    left: 50%;
+    width: 90%;
+    height: 70%;
+    text-align: center;
+}
+#caixa_resposta_errada2_longa{
+    top: 40%;
+    left: 50%;
+    width: 90%;
+    height: 70%;
+    text-align: center;
+}
+#caixa_resposta_errada3_longa{
+    top: 40%;
+    left: 50%;
+    width: 90%;
+    height: 70%;
+    text-align: center;
+}
+
+#ok_certa_longa{
+    top: 87%;
+    left: 70%;
+}
+#ok_errada1_longa{
+    top: 87%;
+    left: 70%;
+}
+#ok_errada2_longa{
+    top: 87%;
+    left: 70%;
+}
+#ok_errada3_longa{
+    top: 87%;
+    left: 70%;
+}
+
+#cancelar_certa_longa{
+    top: 87%;
+    left: 30%;
+}
+#cancelar_errada1_longa{
+    top: 87%;
+    left: 30%;
+}
+#cancelar_errada2_longa{
+    top: 87%;
+    left: 30%;
+}
+#cancelar_errada3_longa{
+    top: 87%;
+    left: 30%;
+}
+
+#tela_feedback_positivo{
+    top: 50%;
+    left: 50%;
+    width: 50%;
+    height: 50%;
+}
+#caixa_feedback_positivo{
+    top: 40%;
+    left: 50%;
+    width: 90%;
+    height: 70%;
+    text-align: center;
+}
+#ok_feedback_positivo{
+    top: 87%;
+    left: 70%;
+}
+
+#ok_feedback_negativo{
+    top: 87%;
+    left: 70%;
+}
+#cancelar_feedback_positivo{
+    top: 87%;
+    left: 30%;
+}
+
+#cancelar_feedback_negativo{
+    top: 87%;
+    left: 30%;
+}
+
+#tela_feedback_negativo{
+    top: 50%;
+    left: 50%;
+    width: 50%;
+    height: 50%;
+}
+#caixa_feedback_negativo{
+    top: 40%;
+    left: 50%;
+    width: 90%;
+    height: 70%;
+    text-align: center;
+}
+
+#botao_feedback_positivo{
+    top: 35%;
+    left: 30%;
+}
+#botao_feedback_negativo{
+    top: 35%;
+    left: 70%;
+}
+
+
+.botao_ok{
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+}

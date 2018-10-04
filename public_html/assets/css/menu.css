@@ -1,0 +1,48 @@
+#menu_game_screen{
+}
+
+#MENU_texto{
+    position: absolute;
+    margin: 0 0;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 30px;   
+}
+
+#menu_botao1{
+    top: 25%;
+    left: 50%;
+}
+#menu_botao2{
+    top: 33%;
+    left: 50%;
+}
+#menu_botao3{
+    top: 41%;
+    left: 50%;
+}
+#menu_botao4{
+    top: 49%;
+    left: 50%;
+}
+#menu_botao5{
+    top: 57%;
+    left: 50%;
+}
+#menu_botao6{
+    top: 85%;
+    left: 50%;
+}
+#menu_botao7{
+    top: 77%;
+    left: 50%;
+}
+#menu_botao8{
+    bottom: 0%;
+    right: 0%;
+    width: 75px;
+}

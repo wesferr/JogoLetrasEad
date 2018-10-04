@@ -1,0 +1,125 @@
+#cadastro_titulo{
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 20px;
+    top: 7.5%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+#cadastro_usuario{
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 20px;
+    top: 30%;
+    left: 29%;
+    transform: translate(-50%, -50%)
+}
+#cadastro_senha1{
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 20px;
+    top: 40%;
+    left: 29%;
+    transform: translate(-50%, -50%)
+}
+#cadastro_senha2{
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 20px;
+    top: 50%;
+    left: 29%;
+    transform: translate(-50%, -50%)
+}
+#cadastro_nome{
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 20px;
+    top: 60%;
+    left: 29%;
+    transform: translate(-50%, -50%)
+}
+
+#cadastro_categoria{
+    margin: 0;
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    font-size: 20px;
+    top: 70%;
+    left: 30%;
+    transform: translate(-50%, -50%)
+}
+
+.textbox{
+    position: absolute;
+    border: solid;
+    border-width: 1px;
+    width: 40%;
+    height: 30px;
+    transform: translate(-50%, -50%);
+}
+
+#caixa_usuario{
+    top: 30%;
+    left: 61%;
+}
+#caixa_senha1{
+    top: 40%;
+    left: 61%;
+}
+#caixa_senha2{
+    top: 50%;
+    left: 61%;
+}
+#caixa_nome{
+    top: 60%;
+    left: 61%;
+}
+
+.cadastro_botao{
+    position: absolute;
+    border: solid;
+    border-width: 2px;
+    border-color: #005e99;
+    background-color: #346ffc;
+    width: 200px;
+    height: 30px;
+    transform: translate(-50%, -50%);
+}
+#cadastro_ok{
+    left: 70%;
+    top: 85%;
+    width: 20%;
+}
+
+#cadastro_cancelar{
+    left: 30%;
+    top: 85%;
+    width: 20%;
+}
+
+#catsell{
+    left: 60%;
+    top: 70%;
+}
+
+#falta_text{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    left: 50%;
+    top: 15%;
+}

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="/home/wesley/Arquivo/Universidade/Bolsa/jogobolsa/public_html/assets/config.png"
+   inkscape:export-xdpi="206.63678"
+   inkscape:export-ydpi="206.63678"
+   sodipodi:docname="engrenagem.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="391.06011"
+     inkscape:cy="580.33259"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="1360"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path4235"
+       style="fill:#333333;fill-rule:evenodd;stroke:#000000;stroke-width:0.29970208;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 357.75046,433.00813 c 26.55405,0.47916 41.81485,22.03321 41.9994,41.75646 0.20614,22.03154 -15.8096,43.16829 -42.54773,42.97726 -29.2482,-0.20897 -43.01879,-23.94586 -42.2321,-45.81299 0.69245,-19.24772 18.69741,-39.35529 42.78043,-38.92073 z m -19.10773,-67.89227 c 12.3499,-1.4482 24.81185,-1.77793 37.49755,0.12604 l 2.27259,31.50824 c 8.08991,1.69399 13.80485,4.92204 19.06441,8.44422 l 24.02004,-20.31132 c 9.91262,6.6778 19.23644,14.53115 26.7826,25.93357 l -20.56471,24.43663 c 3.83508,5.86962 6.43313,12.23318 7.88762,19.05335 l 31.24637,2.22797 c 2.61563,14.10268 2.1355,26.35114 0,37.60814 l -31.15709,2.22797 c -1.48879,7.50594 -4.35006,13.40002 -7.85624,18.53671 l 20.53333,24.68591 c -7.5561,9.90018 -15.16368,19.7652 -27.13971,26.64652 l -23.74724,-20.58644 c -6.19514,3.47168 -12.5108,6.5223 -19.37274,7.66422 l -1.96406,31.72628 c -10.78815,1.64174 -22.37242,2.51931 -37.49564,0 l -2.67828,-31.72628 c -6.50947,-1.27559 -12.68465,-3.77472 -18.47999,-7.66422 l -24.72927,19.96261 c -11.00845,-7.22445 -19.61435,-15.83254 -26.24694,-25.57709 l 20.71186,-25.48799 c -4.58072,-4.9817 -7.23529,-10.80515 -8.48115,-17.46729 l -31.33565,-2.67356 c -2.14583,-13.02387 -1.6396,-25.51827 -0.44637,-37.87549 l 31.33564,-1.96061 c 1.57453,-6.20861 3.8343,-12.41722 8.48117,-18.62583 l -20.44405,-25.39886 c 7.60597,-10.18556 16.29037,-19.29982 26.51476,-25.93358 l 24.10435,20.67557 c 5.37018,-3.68672 11.24888,-6.75299 18.74782,-7.84245 z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
